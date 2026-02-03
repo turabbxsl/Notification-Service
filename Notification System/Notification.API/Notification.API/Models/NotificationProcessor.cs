@@ -48,6 +48,9 @@ namespace Notification.Api.Models
                 }
 
                 notification.RetryCount++;
+
+                // Delay between retries (exponential backoff)
+                Thread.Sleep(1000 * notification.RetryCount);
             }
 
             notification.Status = Status.Failed; // Maximum retry has been passed.

@@ -1,0 +1,11 @@
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\bin\Debug\net10.0\Notification.Core.deps.json
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\bin\Debug\net10.0\Notification.Core.dll
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\bin\Debug\net10.0\Notification.Core.pdb
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\Notification.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\Notification.Core.AssemblyInfoInputs.cache
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\Notification.Core.AssemblyInfo.cs
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\Notification.Core.csproj.CoreCompileInputs.cache
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\Notification.Core.dll
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\refint\Notification.Core.dll
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\Notification.Core.pdb
+C:\Users\t.bakhishli\Desktop\Notification\Notification System\Notification.Core\Notification.Core\obj\Debug\net10.0\ref\Notification.Core.dll

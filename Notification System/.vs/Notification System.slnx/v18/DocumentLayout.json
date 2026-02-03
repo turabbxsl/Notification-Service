@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|c:\\users\\t.bakhishli\\desktop\\notification\\notification system\\notification.api\\notification.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|c:\\users\\t.bakhishli\\desktop\\notification\\notification system\\notification.api\\notification.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|c:\\users\\t.bakhishli\\desktop\\notification\\notification system\\notification.api\\notification.api\\queues\\notificationqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.api\\queues\\notificationqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|c:\\users\\t.bakhishli\\desktop\\notification\\notification system\\notification.api\\notification.api\\services\\background\\notificationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82683B1-62F2-45D3-A8B4-F9BD04D0CBCA}|Notification.API\\Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.api\\services\\background\\notificationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Notification.API\\Notification.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Dockerfile",
+              "RelativeToolTip": "Notification.API\\Notification.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-03T07:16:50.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationQueue.cs",
+              "DocumentMoniker": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Queues\\NotificationQueue.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Notification.API\\Queues\\NotificationQueue.cs",
+              "ToolTip": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Queues\\NotificationQueue.cs",
+              "RelativeToolTip": "Notification.API\\Notification.API\\Queues\\NotificationQueue.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:15:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationWorker.cs",
+              "DocumentMoniker": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Services\\Background\\NotificationWorker.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Notification.API\\Services\\Background\\NotificationWorker.cs",
+              "ToolTip": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Services\\Background\\NotificationWorker.cs",
+              "RelativeToolTip": "Notification.API\\Notification.API\\Services\\Background\\NotificationWorker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:13:43.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Notification.API\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\t.bakhishli\\Desktop\\Notification\\Notification System\\Notification.API\\Notification.API\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Notification.API\\Notification.API\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:52:46.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

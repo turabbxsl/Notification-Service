@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Notification.Worker\\Notification.Worker\\Notification.Worker.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Notification.API\\Notification.API\\Notification.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

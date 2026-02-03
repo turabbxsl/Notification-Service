@@ -1,0 +1,16 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Logs and temporary files
+*.log
+*.cache
+*.db
+*.bak
+*.swp
+*.tmp
+*.old
+*.backup
